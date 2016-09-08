@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToastDemo</string>
+    <string name="hello1">你好吗？恩，好！1</string>
+    <string name="hello2">你好吗？恩，好！2</string>
+    <string name="hello3">你好吗？恩，好！3</string>
+    <string name="hello4">你好吗？恩，好！4</string>
+    <string name="hello5">你好吗？恩，好！5</string>
+</resources>

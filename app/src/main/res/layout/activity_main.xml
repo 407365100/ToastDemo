@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#aaaaaa"
+    android:orientation="vertical"
+    tools:context="com.luomo.toastdemo.MainActivity">
+
+    <TextView
+        android:id="@+id/tv_one"
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:gravity="center"
+        android:onClick="onClick"
+        android:background="#cccccc"
+        android:text="1"  />
+
+    <TextView
+        android:id="@+id/tv_two"
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:gravity="center"
+        android:onClick="onClick"
+        android:background="#cccccc"
+        android:text="2" />
+
+    <TextView
+        android:id="@+id/tv_three"
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:gravity="center"
+        android:onClick="onClick"
+        android:background="#cccccc"
+        android:text="3" />
+
+    <TextView
+        android:id="@+id/tv_four"
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:gravity="center"
+        android:onClick="onClick"
+        android:background="#cccccc"
+        android:text="4" />
+
+    <TextView
+        android:id="@+id/tv_five"
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:gravity="center"
+        android:onClick="onClick"
+        android:background="#cccccc"
+        android:text="5" />
+</LinearLayout>
